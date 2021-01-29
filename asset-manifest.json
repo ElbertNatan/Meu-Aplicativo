@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Meu-Aplicativo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Meu-Aplicativo/static/js/main.c84da1fb.chunk.js",
+    "main.js.map": "/Meu-Aplicativo/static/js/main.c84da1fb.chunk.js.map",
+    "runtime-main.js": "/Meu-Aplicativo/static/js/runtime-main.f01a2003.js",
+    "runtime-main.js.map": "/Meu-Aplicativo/static/js/runtime-main.f01a2003.js.map",
+    "static/js/2.053cb19f.chunk.js": "/Meu-Aplicativo/static/js/2.053cb19f.chunk.js",
+    "static/js/2.053cb19f.chunk.js.map": "/Meu-Aplicativo/static/js/2.053cb19f.chunk.js.map",
+    "static/js/3.24797f02.chunk.js": "/Meu-Aplicativo/static/js/3.24797f02.chunk.js",
+    "static/js/3.24797f02.chunk.js.map": "/Meu-Aplicativo/static/js/3.24797f02.chunk.js.map",
+    "index.html": "/Meu-Aplicativo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Meu-Aplicativo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.053cb19f.chunk.js.LICENSE.txt": "/Meu-Aplicativo/static/js/2.053cb19f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Meu-Aplicativo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f01a2003.js",
+    "static/js/2.053cb19f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c84da1fb.chunk.js"
+  ]
+}
